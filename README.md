@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&duration=5094&pause=1000&center=true&vCenter=true&width=454&lines=I'm+%C3%89cio+Mahoque!)](https://git.io/typing-svg)
+
+
 <!--
 **EcioMahoque5/EcioMahoque5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
