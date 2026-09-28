@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&pause=2000&color=FF1E1E&vCenter=true&width=454&lines=I'm+%C3%89cio+Mahoque!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&pause=2000&color=4493F8&vCenter=true&width=454&lines=I'm+%C3%89cio+Mahoque!)](https://git.io/typing-svg)
 
 
 <!--
